@@ -2,8 +2,8 @@
 
 ## Portfolio website 
 
-### [Link to deployed Website](): 
-### [Link to GitHub repo]():
+### [Link to deployed Website](https://hrehman12.github.io/week2-assignment/): 
+### [Link to GitHub repo](https://github.com/hrehman12/week2-assignment):
 
 ## Acceptance Criteria
 

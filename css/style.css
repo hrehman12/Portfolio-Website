@@ -17,21 +17,17 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+p {
   margin: 0;
 }
 /* styling all over the page  */
 
-p {
-  margin: 0;
-}
-section{
+
+section, div{
   margin: 30px;
 }
 
-div{
-  margin: 30px;
-}
 img{
   display: flex;
   height: 50vh;
@@ -73,6 +69,12 @@ nav ul li a{
 }
 
 /* about me section styling */
+.page-wrapper{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
 .main-img{
   height: 70vh;
   width: 90vh;
@@ -124,7 +126,6 @@ nav ul li a{
 
  body{
   width: 100%;
-  padding: 30px;
  }
 
 }
